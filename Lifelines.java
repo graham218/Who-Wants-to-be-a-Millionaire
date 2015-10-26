@@ -1,8 +1,5 @@
 /* 
-Culminating Activity
-ICS3U7 - 2D
 Stephen Yang
-Teacher: Ms. Xie
 Program Name: Lifelines.java
 Description: This class handles everything to do with the lifelines including using them, checking to see if you have any left, tc.
 */
