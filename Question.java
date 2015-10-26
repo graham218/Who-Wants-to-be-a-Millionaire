@@ -1,8 +1,5 @@
 /* 
-Culminating Activity
-ICS3U7 - 2D
 Stephen Yang
-Teacher: Ms. Xie
 Program Name: Question.java
 Description: In this class, there are methods mainly used to get questions, options, answers, and hints from text files and send it to the main program
 */
