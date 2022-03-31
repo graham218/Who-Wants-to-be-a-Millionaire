@@ -1,5 +1,5 @@
 /* 
-Stephen Yang
+Bill Graham
 Program Name: Question.java
 Description: In this class, there are methods mainly used to get questions, options, answers, and hints from text files and send it to the main program
 */
