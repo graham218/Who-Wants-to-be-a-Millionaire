@@ -1,5 +1,5 @@
 /* 
-Stephen Yang
+Bill Graham
 Program Name: Lifelines.java
 Description: This class handles everything to do with the lifelines including using them, checking to see if you have any left, tc.
 */
