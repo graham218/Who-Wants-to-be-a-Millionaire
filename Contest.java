@@ -1,5 +1,5 @@
 /* 
-Stephen Yang
+Bill Graham
 Program Name: Contest.java
 Description: This program is the main program of the Who Wants to be a Millionaire game. In this file, it outputs all the questions and possible answers then asks the user for a response. Afterwards, It verifies the answer and calls on the according methods from other classes to do tasks. In the end, It also calculates the winners and outputs them.
 */
