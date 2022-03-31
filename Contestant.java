@@ -1,5 +1,5 @@
 /*
-Stephen Yang
+Bill Graham
 Program Name: Contestant.java
 Description: In this class, Variables and methods calculate things to do with the contestants. Things such as calculating the money won, Their names etc.
 */
